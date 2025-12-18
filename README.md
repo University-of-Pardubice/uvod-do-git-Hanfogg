@@ -1,2 +1,2 @@
-# Software_engineering
-Empty project for trainining git
+# Software engineering
+not empty project for trainining git
